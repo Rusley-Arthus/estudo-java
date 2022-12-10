@@ -1,4 +1,4 @@
-package ArrayPOO;
+package arrayProduto;
 
 import java.util.Locale;
 import java.util.Scanner;

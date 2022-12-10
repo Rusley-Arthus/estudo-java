@@ -1,4 +1,4 @@
-package ArrayPOO;
+package arrayProduto;
 
 public class Produto {
 	private String nome;

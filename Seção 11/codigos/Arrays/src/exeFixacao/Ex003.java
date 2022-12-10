@@ -35,7 +35,7 @@ public class Ex003 {
 			
 		}
 		
-		double porcentagem = (somaMenor16 * 100) / pessoas.length;
+		double porcentagem = (somaMenor16 * 100.0) / pessoas.length;
 		double alturaMedia = alturas / qtdPessoas;
 		System.out.printf("\nAltura média: %.2f%n", alturaMedia);
 		System.out.printf("Pessoas com menos de 16 anos: %.2f%%%n", porcentagem);
